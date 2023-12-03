@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Check/static/css/main.897cb8f6.css",
+    "main.js": "/Check/static/js/main.ff9cb41e.js",
+    "static/media/tara.jpg": "/Check/static/media/tara.95a7486591d0c7b81d43.jpg",
+    "static/media/p6.jpg": "/Check/static/media/p6.1b825901b772af7385e6.jpg",
+    "static/media/pexels-vilvah-store-17656720.jpg": "/Check/static/media/pexels-vilvah-store-17656720.1b825901b772af7385e6.jpg",
+    "static/media/pexels-anna-shvets-5069404.jpg": "/Check/static/media/pexels-anna-shvets-5069404.4ac5e0f541feef1d6489.jpg",
+    "static/media/pexels-rachel-claire-5531747.jpg": "/Check/static/media/pexels-rachel-claire-5531747.534f8ba240be1d1979bb.jpg",
+    "static/media/pexels-liza-summer-6348140.jpg": "/Check/static/media/pexels-liza-summer-6348140.4ac6ee3613251f4b68f3.jpg",
+    "static/media/pexels-kampus-production-8422712.jpg": "/Check/static/media/pexels-kampus-production-8422712.5d1c08d9eeb2c1e9b376.jpg",
+    "static/media/p5.jpg": "/Check/static/media/p5.8118ccc7d06201bfb7d0.jpg",
+    "static/media/p3.jpg": "/Check/static/media/p3.472a6cfb195aea2fdcac.jpg",
+    "static/media/aboutImg.jpg": "/Check/static/media/aboutImg.fc3eac9742270d7e6f64.jpg",
+    "static/media/p2.jpg": "/Check/static/media/p2.1f14687493ce75ee0e70.jpg",
+    "static/media/p4.jpg": "/Check/static/media/p4.dec16ebccefb238fa36e.jpg",
+    "static/media/p1.jpg": "/Check/static/media/p1.324c2964afd36fbe2162.jpg",
+    "static/media/empty-cart.png": "/Check/static/media/empty-cart.a77e8cf4ce223affb98a.png",
+    "static/media/ddblack.png": "/Check/static/media/ddblack.4630ea7943a62148b26a.png",
+    "index.html": "/Check/index.html",
+    "main.897cb8f6.css.map": "/Check/static/css/main.897cb8f6.css.map",
+    "main.ff9cb41e.js.map": "/Check/static/js/main.ff9cb41e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.897cb8f6.css",
+    "static/js/main.ff9cb41e.js"
+  ]
+}
